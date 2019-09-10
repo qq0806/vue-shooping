@@ -1,0 +1,67 @@
+//改变分类侧边栏字体大小
+.cl-sidebar-left-van {
+  .van-sidebar-item {
+    font-size: 30px !important;
+  }
+}
+//改变分类字体大小
+.cl-labelPage-font-van {
+  .van-tab {
+    font-size: 30px !important;
+  }
+  .van-tabs__wrap {
+    z-index: 0 !important;
+  }
+}
+// 改变轻提示的宽度
+body {
+  .van-toast {
+    width: auto;
+  }
+}
+//地址列表
+.addressList-span-van {
+  .van-button--large {
+    height: 100px;
+  }
+  .van-address-item__address {
+    margin-top: 20px;
+  }
+  .van-radio {
+    height: 100px;
+  }
+}
+//改变地址编辑框属性
+.editAddress-font-van {
+  //字体大小
+  .van-cell {
+    font-size: 30px;
+    align-items: center;
+  }
+  .van-field__label {
+    width: 160px;
+  }
+  .van-address-edit__buttons {
+    margin-top: 40px;
+  }
+  .van-button--normal {
+    padding: 0px;
+  }
+  .van-button--block {
+    height: 80px;
+  }
+}
+.shopping-shadow-font {
+  .van-checkbox__icon {
+    font-size: 30px !important;
+  }
+}
+//
+.city-Letter-font {
+  .van-index-bar__index {
+    line-height: 40px;
+  }
+  .van-cell[data-v-4acd9f25] {
+    width: 100vw;
+  }
+}

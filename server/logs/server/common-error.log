@@ -1,0 +1,499 @@
+2019-07-17 18:26:59,736 ERROR 6572 [egg-mongoose] mongodb://127.0.0.1/shoppingMall disconnected
+2019-07-24 17:03:59,027 ERROR 5976 [-/127.0.0.1/-/699ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:04:00,266 ERROR 5976 [-/127.0.0.1/-/58ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:04:00,814 ERROR 5976 [-/127.0.0.1/-/3ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:04:02,540 ERROR 5976 [-/127.0.0.1/-/2ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:04:03,804 ERROR 5976 [-/127.0.0.1/-/3ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:05:32,280 ERROR 5976 [-/127.0.0.1/-/4ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:05:34,627 ERROR 5976 [-/127.0.0.1/-/4ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:05:56,673 ERROR 5976 [-/127.0.0.1/-/2ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:05:58,735 ERROR 5976 [-/127.0.0.1/-/4ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:09:17,041 ERROR 5976 [-/127.0.0.1/-/2ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-24 17:09:19,441 ERROR 5976 [-/127.0.0.1/-/5ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5976
+hostname: ss
+
+2019-07-25 09:01:58,473 ERROR 5456 [-/127.0.0.1/-/3ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5456
+hostname: ss
+
+2019-07-25 14:16:16,245 ERROR 5456 [-/127.0.0.1/-/4ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5456
+hostname: ss
+
+2019-07-25 14:18:42,442 ERROR 5456 [-/127.0.0.1/-/5ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5456
+hostname: ss
+
+2019-07-25 14:18:44,434 ERROR 5456 [-/127.0.0.1/-/4ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5456
+hostname: ss
+
+2019-07-25 14:18:45,874 ERROR 5456 [-/127.0.0.1/-/5ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5456
+hostname: ss
+
+2019-07-25 14:21:57,245 ERROR 5456 [-/127.0.0.1/-/4ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (C:\Users\Administrator\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:16:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 5456
+hostname: ss
+
+2019-07-26 09:02:54,828 ERROR 988 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 988
+hostname: ss
+
+2019-07-27 17:32:38,463 ERROR 3316 [egg-mongoose] mongodb://127.0.0.1/shoppingMall disconnected
+2019-07-29 13:56:48,835 ERROR 4780 nodejs.ClusterClientNoResponseError: client no response in 3355543ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 4780
+hostname: LAPTOP-FFHN5J49
+
+2019-07-30 15:58:28,336 ERROR 4852 [-/127.0.0.1/-/4659ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (C:\Users\Lenovo\Desktop\vue-shopping\server\app\controller\api\operatingGoods.js:178:42)
+    at Object.callFn (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\koa-compose\index.js:36:12
+    at dispatch (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Lenovo\Desktop\vue-shopping\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 4852
+hostname: LAPTOP-FFHN5J49
+
+2019-07-31 17:55:40,044 ERROR 8504 nodejs.ClusterClientNoResponseError: client no response in 610150ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 8504
+hostname: LAPTOP-FFHN5J49
+
+2019-07-31 20:51:57,643 ERROR 8504 nodejs.ClusterClientNoResponseError: client no response in 9703353ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 8504
+hostname: LAPTOP-FFHN5J49
+
+2019-07-31 21:03:21,509 ERROR 8504 nodejs.ClusterClientNoResponseError: client no response in 498805ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 8504
+hostname: LAPTOP-FFHN5J49
+
+2019-08-01 11:08:43,480 ERROR 10600 [-/127.0.0.1/-/491ms POST /v1/setDefaultAddress] nodejs.CastError: Cast to ObjectId failed for value "" at path "_id" for model "Address"
+    at new CastError (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\error\cast.js:29:11)
+    at ObjectId.cast (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\schema\objectid.js:244:11)
+    at ObjectId.SchemaType.applySetters (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\schematype.js:948:12)
+    at ObjectId.SchemaType._castForQuery (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\schematype.js:1362:15)
+    at ObjectId.SchemaType.castForQuery (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\schematype.js:1352:15)
+    at ObjectId.SchemaType.castForQueryWrapper (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\schematype.js:1331:15)
+    at cast (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\cast.js:307:32)
+    at model.Query.Query.cast (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\query.js:4576:12)
+    at castQuery (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\query.js:4389:18)
+    at model.Query.Query._findAndModify (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\query.js:3331:23)
+    at model.Query.<anonymous> (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\query.js:2928:8)
+    at model.Query._wrappedThunk [as _findOneAndUpdate] (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\kareem\index.js:369:33
+    at processTicksAndRejections (internal/process/task_queues.js:82:9)
+message: "Cast to ObjectId failed for value \"\" at path \"_id\" for model \"Address\""
+name: "CastError"
+stringValue: "\"\""
+kind: "ObjectId"
+value: ""
+path: "_id"
+reason: undefined
+model: undefined
+pid: 10600
+hostname: LAPTOP-FFHN5J49
+
+2019-08-01 13:44:28,902 ERROR 6932 nodejs.ClusterClientNoResponseError: client no response in 850701ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Lenovo\Desktop\vue-shopping\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6932
+hostname: LAPTOP-FFHN5J49
+
+2019-08-01 18:05:18,180 ERROR 10600 [-/127.0.0.1/-/2089ms POST /v1/goodsOne/comment] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\vue-shopping\server\app\public\avatar\1564653916732aal1062bbmbk5-10f-45d4261688e645a2968654811.png'
+ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\vue-shopping\server\app\public\avatar\1564653916732aal1062bbmbk5-10f-45d4261688e645a2968654811.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\Users\\Lenovo\\Desktop\\vue-shopping\\server\\app\\public\\avatar\\1564653916732aal1062bbmbk5-10f-45d4261688e645a2968654811.png"
+name: "ENOENTError"
+pid: 10600
+hostname: LAPTOP-FFHN5J49
+
+2019-08-01 18:05:21,656 ERROR 10600 [-/127.0.0.1/-/89ms POST /v1/goodsOne/comment] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\vue-shopping\server\app\public\avatar\1564653921478aal1062bbmbk5-10f-45d4261688e645a2968654811.png'
+ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\vue-shopping\server\app\public\avatar\1564653921478aal1062bbmbk5-10f-45d4261688e645a2968654811.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\Users\\Lenovo\\Desktop\\vue-shopping\\server\\app\\public\\avatar\\1564653921478aal1062bbmbk5-10f-45d4261688e645a2968654811.png"
+name: "ENOENTError"
+pid: 10600
+hostname: LAPTOP-FFHN5J49
+
+2019-08-01 18:05:49,906 ERROR 10600 [-/127.0.0.1/-/31ms POST /v1/goodsOne/comment] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\vue-shopping\server\app\public\avatar\1564653949875aal1062bbmbk5-10f-45d4261688e645a2968654811.png'
+ENOENTError: ENOENT: no such file or directory, open 'C:\Users\Lenovo\Desktop\vue-shopping\server\app\public\avatar\1564653949875aal1062bbmbk5-10f-45d4261688e645a2968654811.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\Users\\Lenovo\\Desktop\\vue-shopping\\server\\app\\public\\avatar\\1564653949875aal1062bbmbk5-10f-45d4261688e645a2968654811.png"
+name: "ENOENTError"
+pid: 10600
+hostname: LAPTOP-FFHN5J49
+
+2019-08-03 16:06:55,902 ERROR 7760 [-/127.0.0.1/-/48ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:07:39,843 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:07:39,852 ERROR 7760 [-/127.0.0.1/-/6ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:07:39,855 ERROR 7760 [-/127.0.0.1/-/6ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:07:39,867 ERROR 7760 [-/127.0.0.1/-/14ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:07:39,876 ERROR 7760 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:09:11,521 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:12:54,606 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:12:54,911 ERROR 7760 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:12:56,100 ERROR 7760 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:12:56,341 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:12:56,943 ERROR 7760 [-/127.0.0.1/-/6ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:14:39,468 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,377 ERROR 7760 [-/127.0.0.1/-/31ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,378 ERROR 7760 [-/127.0.0.1/-/29ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,398 ERROR 7760 [-/127.0.0.1/-/48ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,398 ERROR 7760 [-/127.0.0.1/-/38ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,400 ERROR 7760 [-/127.0.0.1/-/39ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,402 ERROR 7760 [-/127.0.0.1/-/40ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,687 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,744 ERROR 7760 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:26,896 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:27,102 ERROR 7760 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:29,241 ERROR 7760 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:29,372 ERROR 7760 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:29,496 ERROR 7760 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:29,532 ERROR 7760 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:29,823 ERROR 7760 [-/127.0.0.1/-/6ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:30,029 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:30,484 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:30,666 ERROR 7760 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:15:31,001 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:16:11,777 ERROR 7760 [-/127.0.0.1/-/9ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:18:11,163 ERROR 7760 [-/127.0.0.1/-/9ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:19:16,494 ERROR 7760 [-/127.0.0.1/-/6ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
+2019-08-03 16:20:02,869 ERROR 7760 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\Administrator\Desktop\shopping\server\app\controller\api\operatingGoods.js:184:40)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7760
+hostname: stu8-20
+
